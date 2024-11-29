@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "*.ts",
+    "common/common.ts",
+    "cosign-similer/cosign-similer.ts",
+    "overload/overload-function.ts",
+    "overload/overload-interface.ts",
+    "overload/overload.ts",
+    "chain-pattern/chain-benchmark.ts",
+    "cosign-similer/score-culcrate.ts",
+    "validation-pattern/validation-benchmark.ts"
+  ],
+  "exclude": ["node_modules"]
+}

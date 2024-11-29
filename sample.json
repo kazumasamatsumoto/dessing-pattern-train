@@ -1,0 +1,404 @@
+{
+  "results": [
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/3d6102f2-f7a2-43b7-9a53-efd4fd60358d",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/50333b2a-32b2-4cca-938b-1c4df838773c",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/2a165e5d-3d84-4232-930a-0fe489df6c2c",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/f407d43f-9ae3-4c96-bdfc-d7755079be93",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/01f3be75-4d41-403d-a12b-07f4eb4205de",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/3bf505ec-283b-4587-a3e2-8a4a828c10d1",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/f7151538-11d0-4728-83e7-438bcc920a0d",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/9095957d-a67b-462c-a8dc-dd5e367c583c",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/38aad180-c42d-4d1d-914a-6e0329d77c1f",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/93525d78-c440-4c5e-b1a5-c5dcfe1148e1",
+      "score": 100.0
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/0d372537-328c-4504-b3c3-d2a3b863594d",
+      "score": 68.69
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/bf89fcb1-1545-4eae-b57e-d6d11bdc98ae",
+      "score": 67.67
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/dda6e10c-241d-4fa3-ab96-eba2d8519c1f",
+      "score": 67.3
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/ba10db16-a651-47f6-965b-3ae0dd033648",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/25c6bee0-f187-4eb7-bff1-a095565526e8",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/ddcbe2c1-ca6f-4c05-b57d-aca8758ebe0a",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/965738ed-32e2-44e2-8641-919f75167c34",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/844332bb-2beb-4cda-8ea2-706fec02fdf3",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/7bad8928-0ba1-4dbe-af8c-65460b0a85b4",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/92d5c0a1-2aaa-4419-8e68-3c15d8bd86fa",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/ae893355-33ef-46c7-a505-418e1f18554e",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/f4da75d0-c3cc-4df2-8b51-3122fe6e9bf7",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/d9c3e3f3-d7b8-4c66-ab6b-64fc558bcb57",
+      "score": 66.5
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/4d572ad9-282e-4ddf-b2e3-00b25f12fa44",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/205f0ea2-5ef7-4011-a2ae-ed12477308f3",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/7cf7f7b6-1e77-422c-b027-7342f7adcbef",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/35842d9a-1ecb-4939-ad80-1bcfe873f925",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/1e8333fc-111c-4e8c-8f4d-8bb0773bd795",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/81cfd3c6-cb77-4e25-8cd2-1e3db15fd4aa",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/f28adb27-6dba-4960-b09d-15b9c4a9bd31",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/dae92370-3d28-4e49-aa07-e11354e30146",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/bdcaf428-0773-46cd-8cb9-24d76b341b6d",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/eee4bb02-0701-48d7-a1ee-7e2421841cdd",
+      "score": 66.24
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/7caac7ce-0f7e-4dda-8baf-e0ecd794b8cb",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/85799e82-52cf-4a11-9f19-35cae383e989",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/fd49ce66-b2e3-48f1-bec8-4358ce765229",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/30efc84d-2cf5-4adb-a0d6-320599f6287e",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/a851ddae-c145-4afa-bd10-90865b24269c",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/df20d7e2-9170-4451-acdd-dd5a0f388569",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/64331e22-9b0a-44a3-a1a8-df63e6bb9421",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/54cafa7e-264b-4b4b-a1bc-87ecb2207666",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/f38fe6d9-e62f-4a86-9cc8-5f4b881352e7",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/a01abe76-04bb-448e-be60-29583d69115f",
+      "score": 65.66
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/53b2926d-d623-4e3d-b6ac-1ae881045003",
+      "score": 62.9
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/260be4fc-7137-4b6a-a2ac-2032202feeeb",
+      "score": 62.8
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/9ad26f47-d018-49d9-b2a3-18508266ca32",
+      "score": 62.69
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/aa106c1f-2193-4ffb-a4ec-894c39e18672",
+      "score": 62.69
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/00c64493-5365-4b3f-9fce-e942d8ccffb4",
+      "score": 62.22
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/16089fe3-1fca-48c0-9112-a0b6d63d15ef",
+      "score": 61.48
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/9d4081ea-1be6-404e-87ca-a34ca12f39d7",
+      "score": 61.28
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/b42837de-dd8f-4144-bea2-06da696c776e",
+      "score": 61.28
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/87ce46dd-eca1-457b-ba9b-1ee30e1bb99c",
+      "score": 61.28
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/c81bf10a-8b3e-4c82-a10f-34c08436e5e5",
+      "score": 61.28
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/cca5fbea-d357-43db-9325-89743e55692b",
+      "score": 61.28
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/48ae305c-481f-4fc6-b40b-272c6b9ddd9f",
+      "score": 61.28
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/67cdbf9a-b34e-4288-9e5d-4ad49c8a1310",
+      "score": 61.26
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/8364369a-6be9-4075-bd1d-6d66a74451ae",
+      "score": 61.26
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/a84dfdd5-5315-4d5b-bc04-7e216972e1e5",
+      "score": 61.26
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/69d475c3-408b-4604-8ca1-0d7d4791944b",
+      "score": 61.26
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/473491c6-7a33-4074-b898-72781bdbcd67",
+      "score": 61.26
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/56c9b921-1230-408b-a6c0-9216a76cc2d5",
+      "score": 61.26
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/dfd2e060-3373-4b42-915a-134fcf448c04",
+      "score": 60.72
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/458ba88c-0b03-4398-985a-89e1b1b1b16b",
+      "score": 60.72
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/1446cf60-bb24-4503-bcfb-77fd510260f0",
+      "score": 60.72
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/59d4c413-37ae-4450-9c03-bf7db6545a09",
+      "score": 60.31
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/f82f89a1-b015-4f97-9b3c-55b790214841",
+      "score": 59.28
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/6ca44db1-b6a5-4973-8ca1-02ac8efdda4a",
+      "score": 59.03
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/10059cfd-0efd-4fcb-84f3-7e0dc1c2cf9f",
+      "score": 59.03
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/bdf79976-3da4-45e1-a8ec-b2a0240e567d",
+      "score": 58.93
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/5107a3f6-afc8-4985-8793-0e13deb0ec90",
+      "score": 58.79
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/521f3285-8bd2-4d3d-92ff-e6e75183e74f",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/17a17178-6688-4c91-b8a6-6ac6825b6bd5",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/d2dd585f-bfcf-4a8a-96f0-8312b9385e48",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/fce501c2-e738-4866-a3e8-24ac9af5a2a3",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/57eb1697-883c-4acf-8291-0cccf14bb215",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/749edd71-add8-4bbd-adee-3638f217eec5",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/cda60c87-7cd7-426c-9240-372b90125602",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/f8905e44-dff0-4bc5-93a0-bbaf9e367178",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/2f676054-983a-4fe1-99c4-28e187f12946",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/18d570fe-1b57-4cf9-aa28-00955ca1d015",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/e63aa728-849b-483c-bdd8-a0e9f692bab0",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/c8d51784-a906-4c8e-9edc-7d4a1192cae0",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/e39b2c9f-9d55-452b-b955-26fd0c997716",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/927a9980-d4c5-4514-b6fc-beffda03acd8",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/b15a85d4-638e-49a0-9e61-e3634429868a",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/3a84e206-1e59-44e6-8bc1-a1167604fda8",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/8702a1e1-a815-482d-845b-49b658a7add2",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/4ec79d11-93fe-4dd8-b42a-cf459b21a7ce",
+      "score": 58.49
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/53c50f62-5c0c-4521-a576-940b60db7f96",
+      "score": 58.39
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/c821aed5-6ab0-4866-be32-f91d673d1416",
+      "score": 58.39
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/c5b0e256-c37b-470e-babc-132aafd2e719",
+      "score": 58.39
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/4c1e2e7d-00e7-4db9-8dd2-2f0f17689b52",
+      "score": 58.39
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/959318c5-cb28-45d3-8ce8-9ed27c8f46c6",
+      "score": 58.39
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/fb303c69-c7b1-4f16-a9c1-4cca39eb552b",
+      "score": 58.39
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/036dc0e4-d52d-4fe4-846d-9c89c9b24e4b",
+      "score": 58.39
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/26500c4f-aa7f-4d6e-83e0-b1ea4bda9d2d",
+      "score": 58.33
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/b05fcc18-ad69-4ae8-815a-cc94c8b015bc",
+      "score": 58.33
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/9ff41250-22cf-4bd9-8e15-d06a4a1fa0d7",
+      "score": 58.33
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/d117fa7e-d911-4bf0-8b4f-6157ebef9f14",
+      "score": 57.96
+    },
+    {
+      "imageFilePath": "e8e43440-f609-43a2-af23-16430ac27d02/image/c81c9c56-18a2-4a56-9d04-74f1533a72a4",
+      "score": 57.96
+    }
+  ]
+}
